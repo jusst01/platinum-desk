@@ -1,5 +1,6 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  {"file": "1-cover.jpg", "description": "The full desk: itinerary strip, watch list, master table and the field note for Positive Mental Attitude open, progress seeded", "viewport": {"width": 1280, "height": 800}, "hash": "#seed=13&open=28"},
+  {"file": "2-filter.jpg", "description": "Collectibles filter applied to the master table", "viewport": {"width": 1280, "height": 800}, "hash": "#seed=13&filter=collectibles"},
+  {"file": "3-watch.jpg", "description": "Spoiler veil on with Actions Speak Louder open — its caution and cited field notes", "viewport": {"width": 1280, "height": 800}, "hash": "#seed=13&open=48&veil=on"},
+  {"file": "4-note.jpg", "description": "A story trophy's field note: Just Like Paradise with its six cited notes", "viewport": {"width": 1280, "height": 800}, "hash": "#seed=13&open=2"}
 ]

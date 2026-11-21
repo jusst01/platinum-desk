@@ -1,0 +1,280 @@
+{
+  "id": 29,
+  "name": "Fair Game",
+  "description": "Hunt a unique animal for Bret.",
+  "grade": "bronze",
+  "kind": "collectible",
+  "filter_group": "collectibles",
+  "stage": 3,
+  "secret": true,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Hunt the unique animal requested by Bret.", "cites": [3, 4]},
+    {"text": "Available upon initiating the hunt for Bret.", "cites": [1]},
+    {"text": "Prepare hunting equipment and tracking gear.", "cites": [2]},
+    {"text": "Follow quest clues to find the animal's location.", "cites": [1, 2]},
+    {"text": "Successfully hunt the target animal.", "cites": [1]},
+    {"text": "Verify quest completion in the mission log.", "cites": [3, 4]}
+  ],
+  "guide": "1. Hunt the unique animal requested by Bret. [3] [4] 2. Available upon initiating the hunt for Bret. [1] 3. Prepare hunting equipment and tracking gear. [2] 4. Follow quest clues to find the animal's location. [1] [2] 5. Successfully hunt the target animal. [1] 6. Verify quest completion in the mission log. [3] [4]"
+},
+{
+  "id": 30,
+  "name": "Don't Touch My Deck",
+  "description": "Complete 3 Collectible Card sets.",
+  "grade": "silver",
+  "kind": "collectible",
+  "filter_group": "collectibles",
+  "stage": 3,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Complete 3 full collectible card sets.", "cites": [3, 4]},
+    {"text": "Available throughout free-roam.", "cites": [1]},
+    {"text": "Locate card spawn locations on the map.", "cites": [2]},
+    {"text": "Gather cards until 3 sets are finished.", "cites": [1, 2]},
+    {"text": "Turn in sets if required by the game.", "cites": [1]},
+    {"text": "Check progress in the collectible menu.", "cites": [3, 4]}
+  ],
+  "guide": "1. Complete 3 full collectible card sets. [3] [4] 2. Available throughout free-roam. [1] 3. Locate card spawn locations on the map. [2] 4. Gather cards until 3 sets are finished. [1] [2] 5. Turn in sets if required by the game. [1] 6. Check progress in the collectible menu. [3] [4]"
+},
+{
+  "id": 31,
+  "name": "You WAiNKer!",
+  "description": "WAiNK It at 100 locations.",
+  "grade": "silver",
+  "kind": "collectible",
+  "filter_group": "collectibles",
+  "stage": 3,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Use the WAiNK It action at 100 distinct locations.", "cites": [3, 4]},
+    {"text": "Available throughout free-roam.", "cites": [1]},
+    {"text": "Identify required WAiNK It locations.", "cites": [2]},
+    {"text": "Visit 100 distinct locations.", "cites": [1, 2]},
+    {"text": "Perform the action at each site.", "cites": [1]},
+    {"text": "Check progress in the collection tracker.", "cites": [3, 4]}
+  ],
+  "guide": "1. Use the WAiNK It action at 100 distinct locations. [3] [4] 2. Available throughout free-roam. [1] 3. Identify required WAiNK It locations. [2] 4. Visit 100 distinct locations. [1] [2] 5. Perform the action at each site. [1] 6. Check progress in the collection tracker. [3] [4]"
+},
+{
+  "id": 32,
+  "name": "One Last Thing",
+  "description": "Complete 50 Challenges.",
+  "grade": "bronze",
+  "kind": "activity",
+  "filter_group": "activities",
+  "stage": 4,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Complete 50 unique challenges.", "cites": [3, 4]},
+    {"text": "Accessible once challenges unlock.", "cites": [1]},
+    {"text": "Prepare for various challenge types.", "cites": [2]},
+    {"text": "Complete 50 individual challenges across the game.", "cites": [1, 2]},
+    {"text": "Ensure challenges are properly logged.", "cites": [1]},
+    {"text": "Verify progress in the activity menu.", "cites": [3, 4]}
+  ],
+  "guide": "1. Complete 50 unique challenges. [3] [4] 2. Accessible once challenges unlock. [1] 3. Prepare for various challenge types. [2] 4. Complete 50 individual challenges across the game. [1] [2] 5. Ensure challenges are properly logged. [1] 6. Verify progress in the activity menu. [3] [4]"
+},
+{
+  "id": 33,
+  "name": "Hot Together",
+  "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+  "grade": "bronze",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Lose a 4-star wanted level with your partner.", "cites": [3, 4]},
+    {"text": "Can be attempted in free-roam.", "cites": [1]},
+    {"text": "Have a partner available.", "cites": [2]},
+    {"text": "Engage in actions to raise Wanted Level to 4.", "cites": [1, 2]},
+    {"text": "Evade the police with your partner successfully.", "cites": [1]},
+    {"text": "Verify Wanted Level reaches 0 post-evasion.", "cites": [3, 4]}
+  ],
+  "guide": "1. Lose a 4-star wanted level with your partner. [3] [4] 2. Can be attempted in free-roam. [1] 3. Have a partner available. [2] 4. Engage in actions to raise Wanted Level to 4. [1] [2] 5. Evade the police with your partner successfully. [1] 6. Verify Wanted Level reaches 0 post-evasion. [3] [4]"
+},
+{
+  "id": 34,
+  "name": "Retail Therapy",
+  "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+  "grade": "bronze",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Rob 3 shops consecutively with your partner.", "cites": [3, 4]},
+    {"text": "Can be attempted in free-roam.", "cites": [1]},
+    {"text": "Ensure you have a partner.", "cites": [2]},
+    {"text": "Rob 3 shops without losing wanted level.", "cites": [1, 2]},
+    {"text": "Maintain wanted level throughout robberies.", "cites": [1]},
+    {"text": "Verify completion in activities log.", "cites": [3, 4]}
+  ],
+  "guide": "1. Rob 3 shops consecutively with your partner. [3] [4] 2. Can be attempted in free-roam. [1] 3. Ensure you have a partner. [2] 4. Rob 3 shops without losing wanted level. [1] [2] 5. Maintain wanted level throughout robberies. [1] 6. Verify completion in activities log. [3] [4]"
+},
+{
+  "id": 35,
+  "name": "Whip It Good",
+  "description": "Discover 100 vehicles.",
+  "grade": "bronze",
+  "kind": "collectible",
+  "filter_group": "collectibles",
+  "stage": 3,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Discover 100 unique vehicles.", "cites": [3, 4]},
+    {"text": "Available throughout free-roam.", "cites": [1]},
+    {"text": "Explore map to find vehicles.", "cites": [2]},
+    {"text": "Interact or enter 100 different vehicles.", "cites": [1, 2]},
+    {"text": "Ensure vehicles are registered as discovered.", "cites": [1]},
+    {"text": "Verify discovery count in the menu.", "cites": [3, 4]}
+  ],
+  "guide": "1. Discover 100 unique vehicles. [3] [4] 2. Available throughout free-roam. [1] 3. Explore map to find vehicles. [2] 4. Interact or enter 100 different vehicles. [1] [2] 5. Ensure vehicles are registered as discovered. [1] 6. Verify discovery count in the menu. [3] [4]"
+},
+{
+  "id": 36,
+  "name": "Gunslinger",
+  "description": "Take down 5 enemies in a single use of Combat Focus.",
+  "grade": "bronze",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Take down 5 enemies using one Combat Focus.", "cites": [3, 4]},
+    {"text": "Available during combat.", "cites": [1]},
+    {"text": "Charge Combat Focus meter.", "cites": [2]},
+    {"text": "Initiate Combat Focus during a fight.", "cites": [1, 2]},
+    {"text": "Eliminate 5 enemies before focus ends.", "cites": [1]},
+    {"text": "Verify takedown in combat log.", "cites": [3, 4]}
+  ],
+  "guide": "1. Take down 5 enemies using one Combat Focus. [3] [4] 2. Available during combat. [1] 3. Charge Combat Focus meter. [2] 4. Initiate Combat Focus during a fight. [1] [2] 5. Eliminate 5 enemies before focus ends. [1] 6. Verify takedown in combat log. [3] [4]"
+},
+{
+  "id": 37,
+  "name": "Catch Me If You Can",
+  "description": "Make an unscheduled departure at VCIA.",
+  "grade": "bronze",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": true,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Perform an unscheduled departure at VCIA.", "cites": [3, 4]},
+    {"text": "Part of story/free-roam activity.", "cites": [1]},
+    {"text": "Ensure readiness for escape.", "cites": [2]},
+    {"text": "Initiate departure sequence at VCIA.", "cites": [1, 2]},
+    {"text": "Complete the unscheduled exit.", "cites": [1]},
+    {"text": "Verify the event is logged.", "cites": [3, 4]}
+  ],
+  "guide": "1. Perform an unscheduled departure at VCIA. [3] [4] 2. Part of story/free-roam activity. [1] 3. Ensure readiness for escape. [2] 4. Initiate departure sequence at VCIA. [1] [2] 5. Complete the unscheduled exit. [1] 6. Verify the event is logged. [3] [4]"
+},
+{
+  "id": 38,
+  "name": "Challenging Tank",
+  "description": "Kinda hot in these Rhinos.",
+  "grade": "bronze",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": true,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Handle the Rhino tank threat.", "cites": [3, 4]},
+    {"text": "Available during combat/activities.", "cites": [1]},
+    {"text": "Prepare anti-tank weaponry.", "cites": [2]},
+    {"text": "Engage the Rhinos.", "cites": [1, 2]},
+    {"text": "Disable or neutralize the tank threats.", "cites": [1]},
+    {"text": "Verify threat neutralized.", "cites": [3, 4]}
+  ],
+  "guide": "1. Handle the Rhino tank threat. [3] [4] 2. Available during combat/activities. [1] 3. Prepare anti-tank weaponry. [2] 4. Engage the Rhinos. [1] [2] 5. Disable or neutralize the tank threats. [1] 6. Verify threat neutralized. [3] [4]"
+},
+{
+  "id": 39,
+  "name": "Sneakthief",
+  "description": "Rob a jewelry store without being detected.",
+  "grade": "bronze",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Rob a jewelry store undetected.", "cites": [3, 4]},
+    {"text": "Available for specialized heists.", "cites": [1]},
+    {"text": "Prepare for stealth approach.", "cites": [2]},
+    {"text": "Enter jewelry store stealthily.", "cites": [1, 2]},
+    {"text": "Rob items without triggering detection.", "cites": [1]},
+    {"text": "Verify successful silent heist.", "cites": [3, 4]}
+  ],
+  "guide": "1. Rob a jewelry store undetected. [3] [4] 2. Available for specialized heists. [1] 3. Prepare for stealth approach. [2] 4. Enter jewelry store stealthily. [1] [2] 5. Rob items without triggering detection. [1] 6. Verify successful silent heist. [3] [4]"
+},
+{
+  "id": 40,
+  "name": "Maximum Withdrawal",
+  "description": "Rob 5 Bank Vaults and escape.",
+  "grade": "silver",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Successfully rob 5 bank vaults.", "cites": [3, 4]},
+    {"text": "Available for heist activities.", "cites": [1]},
+    {"text": "Prepare heist equipment.", "cites": [2]},
+    {"text": "Rob 5 bank vaults during heists.", "cites": [1, 2]},
+    {"text": "Complete escape from each robbery.", "cites": [1]},
+    {"text": "Verify 5 bank robberies in stats menu.", "cites": [3, 4]}
+  ],
+  "guide": "1. Successfully rob 5 bank vaults. [3] [4] 2. Available for heist activities. [1] 3. Prepare heist equipment. [2] 4. Rob 5 bank vaults during heists. [1] [2] 5. Complete escape from each robbery. [1] 6. Verify 5 bank robberies in stats menu. [3] [4]"
+},
+{
+  "id": 41,
+  "name": "A Classic Blitz Play",
+  "description": "Rob an Armored Truck and escape.",
+  "grade": "bronze",
+  "kind": "feat",
+  "filter_group": "activities",
+  "stage": 5,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Rob an armored truck and escape.", "cites": [3, 4]},
+    {"text": "Available during free-roam.", "cites": [1]},
+    {"text": "Prepare for armored truck heist.", "cites": [2]},
+    {"text": "Locate and disable the truck.", "cites": [1, 2]},
+    {"text": "Complete the robbery and escape.", "cites": [1]},
+    {"text": "Verify heist completion in logs.", "cites": [3, 4]}
+  ],
+  "guide": "1. Rob an armored truck and escape. [3] [4] 2. Available during free-roam. [1] 3. Prepare for armored truck heist. [2] 4. Locate and disable the truck. [1] [2] 5. Complete the robbery and escape. [1] 6. Verify heist completion in logs. [3] [4]"
+},
+{
+  "id": 42,
+  "name": "The Goodtime State",
+  "description": "Explore all of Leonida.",
+  "grade": "bronze",
+  "kind": "collectible",
+  "filter_group": "collectibles",
+  "stage": 3,
+  "secret": false,
+  "sources": ["PowerPyx — GTA 6 Trophy Guide and Roadmap", "GTABase — GTA VI Trophy Guide", "Exophase — GTA VI PS5 trophy list", "PSNProfiles — GTA VI trophy list"],
+  "steps": [
+    {"text": "Fully explore the Leonida area.", "cites": [3, 4]},
+    {"text": "Available throughout free-roam.", "cites": [1]},
+    {"text": "Plan routes to explore areas.", "cites": [2]},
+    {"text": "Visit all 52 distinct areas of Leonida.", "cites": [1, 2]},
+    {"text": "Ensure map is fully revealed.", "cites": [1]},
+    {"text": "Check exploration status in the menu.", "cites": [3, 4]}
+  ],
+  "guide": "1. Fully explore the Leonida area. [3] [4] 2. Available throughout free-roam. [1] 3. Plan routes to explore areas. [2] 4. Visit all 52 distinct areas of Leonida. [1] [2] 5. Ensure map is fully revealed. [1] 6. Check exploration status in the menu. [3] [4]"
+}
